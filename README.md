@@ -1,5 +1,4 @@
-Gabriel Ponzoni
-Gaspar Caon
+
 
 GERENCIADOR DE PROCESSOS PRAXEDES
 =================================
@@ -32,8 +31,12 @@ mente em sala de aula, nos foram sugeridos por IA, pesquisas no
 site Stack Overflow e vídeos do youtube para resolver problemas 
 encontrados durante a programação:
 
-- global
-- enumeration
-- __str__()
-- del
-- try: e except:
+- ``global``
+- ``enumeration``
+- `__str__()`
+- ``del``
+- ``try:`` e ``except:``
+
+### Autores:
+| [](https://github.com/GabrielPonzoni) |  [](https://github.com/MeanRaccoon) |
+| :---: | :---: |
