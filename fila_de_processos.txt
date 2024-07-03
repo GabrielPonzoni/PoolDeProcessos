@@ -1,0 +1,12 @@
+ComputingProcess,3 + 0
+ComputingProcess,3 + 0
+ComputingProcess,3 - 0
+ComputingProcess,3 + 0
+ComputingProcess,3 + 0
+ComputingProcess,3 / 0
+ComputingProcess,3 + 0
+ComputingProcess,3 + 0
+ComputingProcess,4.0 / 5.0
+ComputingProcess,10.0 + 10.0
+ComputingProcess,2.0 - 3.0
+ComputingProcess,4.0 + 100.0
