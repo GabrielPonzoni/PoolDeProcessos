@@ -38,5 +38,5 @@ encontrados durante a programação:
 - ``try:`` e ``except:``
 
 ### Autores:
-| [](https://github.com/GabrielPonzoni) |  [](https://github.com/MeanRaccoon) |
+| [<img loading="lazy" src="https://i.postimg.cc/28zXxtWH/333365603-1006563527394289-653866351373794602-n.jpg" width=115><br><sub>Gabriel Ponzoni</sub>](https://github.com/GabrielPonzoni) |  [<img loading="lazy" src="https://i.postimg.cc/j2YBKdLK/Imagem-do-Whats-App-de-2024-07-03-s-11-25-21-b72c1111.jpg" width=115><br><sub>Gaspar Machado Caon</sub>](https://github.com/MeanRaccoon) |
 | :---: | :---: |
