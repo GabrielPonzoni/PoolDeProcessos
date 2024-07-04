@@ -1,18 +1,20 @@
-
-
 GERENCIADOR DE PROCESSOS PRAXEDES
 =================================
 
-Este programa permite ao usuário gerenciar uma fila (lista)
-de processos. Problema proposto para o Simulador de Execução de Processos
-construída com base na descrição original do Prof. Márcio Garcia Martins ([Unisinos](https://www.unisinos.br/))
+### Este programa permite ao usuário gerenciar uma fila (lista) de processos em arquivos .txt, cada processo pode ser executado separadamente. 
+>Problema proposto para o Simulador de Execução de Processos construída com base na descrição original do Prof. Márcio Garcia Martins [(Unisinos)](https://www.unisinos.br/)
 
 # 🔨 Funcionalidades do projeto
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Funcionalidade 1`: criar processo, abre opções para criar 4 tipos de processos, são eles: Calculo, Gravacao, Impressao, Leitura. Para cada processo criado é atribuido um PID (Process ID) que identifica numericamente o Processo
+- `Funcionalidade 2`: executar próximo processo, tem como funçao executar o primeiro elemento da fila/lista de processos, mostrando no terminal o __execute()__ do processo, logo em seguida ele o remove da fila de processos.
+- `Funcionalidade 3`: executar processo específico, ele solicita um input do PID do processo, após isso verifica na lista se o processo existe, realiza a execuçao do processo e por fim o remove da fila de processos.
+- `Funcionalidade 4`: salvar fila de processos do arquivo, salva o fila que foi criada durante a execução do programa que foi manipulada ou até mesmo criada num arquivo .txt 
+- `Funcionalidade 5`: Carregar fila de processos do arquivo, importa essa fila que está dentro do arquivo fila_de_processos.txt __sobrevescrevendo__ a fila que já está dentro do programa, caso essa mesma esteja vazia e o programa esteja com alguns itens na fila eles serão __sobrescritos__.
+- `Funcionalidade 6`: mostrar a fila de processos que estão __apenas__ dentro do programa durante sua execução, é uma exibicao semelhante ao processo.execute() da classe processo_leitura. Mostra todos os PID e os tipo do processos de cada um armazenado na lista.
+- `Funcionalidade 7`: Finaliza o programa. _Nota: Não salva a fila que foi criada durante a execucao do programa, para salvar deve usar a funcionalidade 4._
+
+# 💭Considerações
 
 "functions.py" é um arquivo que contem funções de uso recor rente dentro do método principal, como validação de input de usuário e comandos taquigráficos (como limpeza de tela).
 
